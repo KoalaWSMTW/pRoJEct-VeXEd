@@ -14,7 +14,7 @@ permalink: /
 
 
 
-<iframe src="https://cybermap.kaspersky.com/fr/" width="1800" height="640"></iframe>
+<iframe src="https://cybermap.kaspersky.com/fr/" width="1300" height="600"></iframe>
 
 
 
