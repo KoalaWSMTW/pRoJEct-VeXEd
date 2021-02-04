@@ -16,6 +16,7 @@ permalink: /
 
 <iframe src="https://cybermap.kaspersky.com/fr/" width="1300" height="600"></iframe>
 
+<iframe src="https://threatmap.bitdefender.com/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="1300px" allowfullscreen></iframe>
 
 
 
