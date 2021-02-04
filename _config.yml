@@ -1,6 +1,6 @@
 # 1. Site Settings
 title               : To deep for me bro
-owner               : "3deep5me"
+owner               : "Bourgeat Quentin"
 ## url                : "https://akiritsu.github.io"
 ## baseurl            : "/pRoJEct-VeXEd"
 permalink           : /:title/
@@ -14,44 +14,30 @@ bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]
 # Keep it null if you want to show items in alphabetic order.
 collection_order    : 
   [
+    "Sheet_Cheats",
+    "Usefull_Links",
     "HTB",
-    "SheetCheats",
-    "Usefull Links",
     "Others",
   ]
 collections:
-  math:   
+  HTB:   
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
-    alias           : "Mathematics"
-  portfolio:
-    output          : true
-    permalink       : /:collection/:title/
-    order: # specify post order manually
-      - portfolio3.md
-      - portfolio2.md
-      - portfolio1.md
-  album:
+  Sheet_Cheats:
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
-  physics:
+    alias           : "Sheet Cheats"
+  Usefull_Links:
     output          : true
     permalink       : /:collection/:title/
-  biology:
+    alias           : "Usefull Links"
+  Others:
     output          : true
     permalink       : /:collection/:title/
-  finance:
-    output          : true
-    permalink       : /:collection/:title/
-  my_notes:
-    output          : true
-    permalink       : /:collection/:title/
-    # An alias should be given or the UNDERSCORE will appeared 
-    alias           : "My Notes"
-  posts:
-    output          : true
+    order:
+      -WHOAMI.md
 
 # 3. Comment settings（disqus.com）
 #disqus_username     : akiritsu
@@ -82,7 +68,7 @@ defaults:
 email               : "mail@bourgeatquentin.fr" 
 github              : "KoalaWSMTW" 
 gitlab              : "3deep5me"
-website             : "bourgeatquentin.fr"
+website             : "https://bourgeatquentin.fr"
 twitter             : "@QuentinBourgeat"
 HackTheBox          : "3deep5me"
       
