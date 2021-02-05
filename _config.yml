@@ -1,12 +1,12 @@
 # 1. Site Settings
 title               : To deep for me bro
 owner               : "Bourgeat Quentin"
-## url                : "https://akiritsu.github.io"
+url                : "https://3deep5me.bourgeatquentin.fr/"
 ## baseurl            : "/pRoJEct-VeXEd"
 permalink           : /:title/
 description         : "A hacker-style note-keeping website template."
 markdown            : kramdown
-statement           : "Ty DeerRIDER, All Rights Reserved"
+statement           : "Ty DeerRIDER for this template, All Rights Reserved. Used By Bourgeat Quentin, All Rights Reserved too !"
 bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
 
 # 2. Your Collections
