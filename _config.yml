@@ -17,6 +17,7 @@ collection_order    :
     "Sheet_Cheats",
     "Usefull_Links",
     "HTB",
+    "CyberMAP",
     "Others",
   ]
 collections:
@@ -33,6 +34,10 @@ collections:
     output          : true
     permalink       : /:collection/:title/
     alias           : "Usefull Links"
+  CyberMAP:
+    output          : true
+    permalink       : /:collection/:title/
+    sort_by         : date
   Others:
     output          : true
     permalink       : /:collection/:title/
