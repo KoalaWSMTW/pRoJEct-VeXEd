@@ -1,5 +1,5 @@
 ---
-Title: My profiles
+title: My profile
 ---
 
 
